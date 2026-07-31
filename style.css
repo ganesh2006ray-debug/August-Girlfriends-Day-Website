@@ -24,7 +24,8 @@ body {
     padding: 0;
     font-family: 'Segoe UI', 'Arial', sans-serif;
     min-height: 100vh;
-    background: url('background.jpg') no-repeat center center fixed, linear-gradient(135deg, #f9e6f7 0%, #f7f6e7 100%);
+    background: url('IMG_20260731_181851_248.jpg') no-repeat center center/cover;
+    no-repeat center center fixed, linear-gradient(135deg, #f9e6f7 0%, #f7f6e7 100%);
     background-size: cover;
     position: relative;
 }
